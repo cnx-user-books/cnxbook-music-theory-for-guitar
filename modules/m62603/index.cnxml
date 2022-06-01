@@ -1,0 +1,100 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Theory for Guitar 1: Repetition in Music and the Guitar as a “Rhythm Instrument”</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62603</md:content-id>
+  <md:title>Theory for Guitar 1: Repetition in Music and the Guitar as a “Rhythm Instrument”</md:title>
+  <md:abstract>Repetition is used to organize music. Rhythm repetitions include beats and meter, expressed as measures or bars. When used as a rhythm instrument, or part of a rhythm section, guitar helps create these rhythmic repetitions.</md:abstract>
+  <md:uuid>131c8851-0ce6-4718-9c72-8fe4d11ebd34</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-850">This module is part of <link document="col12059">Common Notation for Guitar Tablature Readers</link>, a <link document="m62540">learning by doing</link> course intended for guitar players who would like to learn some music theory without also being required to learn common notation. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><list id="eip-106"><title>This lesson discusses:</title><item><link target-id="eip-273">How does repetition help create good music?</link></item>
+<item><link target-id="eip-490">How do rhythmic repetitions create beat, meter, and measures or bars?</link></item>
+<item><link target-id="eip-668">When is a guitar a “rhythm instrument”?</link></item></list><section id="eip-273"><title>Repetition in Music</title>
+
+<para id="eip-569">What is the main difference between noise and music? There are many good ways to answer this question, but one way that is generally useful is that noise is random sounds that have no human-communication meanings. (Some sounds can have other types of meaning, for example bird calls or the sounds that “mean” that your car's engine is having problems.) Music is sound that is organized by people on purpose, to communicate something through the effects of the sounds on the listeners (as opposed to through language or coded meanings). Musical meanings can of course be combined with language meanings, as they are in songs. 
+</para><para id="eip-456">Music may be trying to communicate anything from a mood to a dance beat to a story. The success of the communication - whether the listener “gets” the music - depends in part on whether the listener is familiar with the style and genre of the music and interested in its meanings. But it also depends on whether the musicians manage to use the conventions of the style and genre to make the organization – and meaning - of the sounds clearly audible to listeners. Many of the terms and concepts that musicians use to discuss what they do relate to specific aspects or elements of the music that are purposely repeated, helping to make the music understandable and enjoyable to listeners.</para><list id="eip-705" list-type="enumerated" number-style="arabic"><title>Activity 1: Listen for Repetition</title><item>Choose a favorite recording of a favorite song that features guitar.</item>
+<item>With pen and paper handy, listen to the entire recording, noticing as many different repeated elements that the guitar creates as you can. These might be, for example, a repeated chord progression, a strummed rhythm that is part of the basic “groove” of the piece, or a riff that occurs after some of the vocal lines.</item>
+<item>Using whatever notation, shorthand, or terms you like (for example, “sliding riff” or “da-da-dum rhythm”), make a note to yourself of each repeated element that you notice. You can listen to the song more than once if you like.</item>
+<item>Arrange the repetitions that you noticed into categories that make sense to you, for example “chords” or “riffs” or “rhythms.”</item>
+<item>What types of repetitions were easiest for you to notice? Might there have been categories of repetitions that you had particular difficulty hearing or describing? Did you hear any repetitions that were variations rather than exact repetitions? </item>
+<item>Would you describe any of the repeated elements (perhaps a favorite riff) as one of the main reasons you like that recording of that song? Would you describe any of them as typical of the piece's style or genre?</item></list><list id="eip-461" list-type="enumerated" number-style="arabic"><title>Activity 2: Repetitions in your guitar music</title><item>Choose any song you know how to play.</item>
+<item>Play through it, noticing any repeated elements.</item>
+<item>Make a categorized list similar to the one in Activity 1.</item>
+<item>How are the lists similar, and how are they different? Are some types of repetitions easier to notice when playing? Are some easier to notice when listening?</item>
+<item>If possible, listen to a favorite recording of the piece. Are there any repeated guitar elements that you particularly like in the recording that are not included in your performance? Would it be possible for you to include some version of them when you play the piece? Are there any repeated elements that are created by some other instrument that you particularly like and might be able to imitate with your guitar?</item></list></section>
+
+<section id="eip-490"><title>Beats and Meter</title>
+
+<para id="eip-441">
+In nearly all genres and styles that commonly use guitar, one of the most common ways of organizing the music is with repetition in the rhythm. At the most basic level, there is usually a steady <term>beat</term> that is created by repeating sounds (such as drum hits or guitar strums) at very regular intervals. The <term>tempo</term> of a piece describes how far apart the beats are. When beats are close together, a piece has a fast tempo; when they are further apart, it has a slower tempo.
+</para>
+
+<para id="eip-368">At the next level of complexity, some beats are emphasized more than others, creating a repetitive pattern of weaker and stronger pulses. These repeated patterns of heavier/stronger beats and lighter/weaker beats are called <term>meter</term>. For example, most pop and rock music styles feature alternating strong and weak beats that make it easy to divide the music audibly into 2 or 4 beats. Each section, of 2 or 4 beats of music, can be called a <term>measure</term> or a <term>bar</term>. (Some pieces feature a 3-beat bar, for example country waltz ballads.)</para>
+
+<note id="eip-151" type="important">For many pieces, it can be difficult to decide by ear whether a bar or measure is 2 or 4 beats. It actually does not matter much! It could be written down, and read, equally well using measures of 2 beats or 4 beats; the 4-beat bar would simply be equal to two of the 2-beat bars. In this course, I will try to use the more formal word “measure” when discussing written versions of the music, in which someone has decided which one to use, and will use the less formal word “bar” to discuss the meter that you hear/decide by ear.</note><figure id="meters"><title>Meters</title><media id="meter" alt="Duple, quadruple, and triple meters notated on staves, showing that strong beats line up in duple and triple meters.">
+    <image mime-type="image/png" src="../../media/meter.png"/>
+  </media>
+  
+<caption>In most written guitar music, measures are separated by vertical lines.
+  </caption></figure><list id="eip-762" list-type="enumerated" number-style="arabic"><title>Activity 3: Listen for meter</title><item>Choose a favorite recording of a favorite song. </item>
+<item>Listen to the recording, paying close attention to the beat. It may help to tap your foot, nod your head, or otherwise “feel the beat” with your body. Would you describe the tempo as fast or slow? </item>
+<item>Listen for a repeated pattern of  heavier/stronger and lighter/weaker beats. If it is difficult to hear the pattern, again try to feel it with your body, for example by clapping only on the beats that feel most important.</item>
+<item>Would you say there is a strong beat once every two beats? Three? Four? </item>
+<item>Try to find at least one recording from the <link target-id="eip-532">Exercise</link> below and repeat steps 1-6 using the recording. For this step, you can check your answers against the hidden "solution."</item></list><exercise id="eip-532"><title>Activity 3, Step 5</title><problem id="eip-350">
+<list id="listening-list" list-type="enumerated" number-style="arabic"><item>Angie (Rolling Stones)</item>
+<item>Norwegian Wood (Beatles)</item>
+<item>We Will Rock You (Queen)</item>
+<item>Try Me (Marley)</item>
+<item>Back in Black (AC/DC)</item>
+<item>Blue Dress (Depeche Mode)</item>
+</list></problem>
+
+<solution id="eip-134">
+  <list id="eip-367" list-type="enumerated" number-style="arabic"><item>in 4 (or 2)</item>
+<item>in 3</item>
+<item>in 2 (or 4)</item>
+<item>in 4 (or 2)</item>
+<item>in 2 (or 4)</item>
+<item>in 3</item>
+  </list></solution>
+</exercise>
+
+<list id="eip-579" list-type="enumerated" number-style="arabic"><title>Activity 4: Meter in your music</title><item>Choose 3 or 4 songs that you are very comfortable playing and that you believe may have different meters.</item>
+<item>For each one, play through the song, trying to simultaneously listen for or feel the stronger and weaker beats.</item>
+<item>Try to determine the pattern of weaker and stronger beats that you are playing. If this is difficult, any of the following may help: tap your foot or nod your head; exaggerate what you are playing (i.e. purposefully strum even louder on a strong beat); use a simpler, easier, or more regular picking or strumming pattern; count the meter out loud while you play your picking or strumming pattern(e.g. "ONE-two-ONE-two..."); or analyze your basic picking or strumming pattern to determine how many beats it fills.</item>
+<item>If you still find it difficult to play and consciously feel/hear the meter at the same time (this is a common difficulty!), try recording yourself and listening for the meter as you did in Activity 3. Or you may be able to remember ("hear in your head") what the song sounds like, while trying to clap or count the meter. (If you must, you can listen to a recording of someone else playing it instead, but for this activity it is preferable to be able to link what you are doing as a guitarist to the meter of the piece.)</item>
+<item>Did the songs actually have different meters, or were they all essentially the same meter with a different tempo or different picking or strumming pattern?</item></list><note id="eip-293" type="note"><title>Practice Tips</title>If you feel that, for any of the songs you like to play, you are not persuasively creating the beat and meter, practice those songs regularly with the aim of improving this aspect of your playing. Basic rhythm is one of the most obvious aspects of performance for listeners, so improvements in this area are particularly worthwhile.
+<list id="notelist" list-type="enumerated" number-style="arabic"><item>If a steady beat is a problem, you may find it helpful to practice with a metronome, to play along with a recording, to practice at a slower tempo, or to simplify fingerings or riffs so that it is easier to keep the beat.</item>
+<item>If you feel that <emphasis>deliberately</emphasis> varying the tempo, for example by slowing down slightly in certain places, would make the song more expressive and interesting, you can experiment with that.</item>
+<item>If you want a stronger, or a more subtle, or more stylistic expression of the meter, try imitating the way the beat is created in a favorite recording, or try experimenting with different strumming or picking patterns.</item>
+</list></note>
+
+</section>
+<section id="eip-668"><title>Guitar as Rhythm Instrument</title>
+
+<para id="eip-688">Did the picking or strumming patterns you used in Activity 4 simply play strong and weak beats, or did they include more complex rhythms? At the next level of complexity beyond meter, most pieces include more complex rhythms that are not simply repeated strong and weak pulses. They are instead specific rhythms (which can be called simply <term>rhythms</term> - as opposed to "the beat" - or <term>rhythmic ideas</term> or <term>motifs</term> or <term>gestures</term>) that help make the piece interesting. 
+</para>
+
+<para id="eip-934">Most pieces include complex rhythmic ideas/gestures/motifs that show up in riffs and melodies and are only repeated occasionally (or not at all), to make the piece more rhythmically interesting. But most also include rhythmic ideas that are repeated more or less continuously, to create <term>the beat</term> or <term>groove</term> of the piece. This creates a background that helps listeners make sense of everything else that happens in the music, similar to the way the background in a painting helps create perspective and meaning. If the sense of rhythmic background is missing or jumbled, listeners may have trouble making any sense at all of the music. Any instrument can create a sense of beat and meter, but it is easier to do with some instruments than others. Guitars are particularly useful, because their picking or strumming patterns can create the harmony background and the rhythmic background at the same time. When it is used in this way, the guitar may be called a <term>rhythm instrument</term>. If several instruments are being used as rhythm instruments in a piece, for example drum kit, bass, and rhythm guitar, they may be called the <term>rhythm section</term>.</para>
+
+<list id="eip-434"><title>Activity 5: The rhythmic ideas that you play</title><item>Play through one of the picking or strumming patterns that you used in Activity 4.</item>
+<item>Can you express the basic rhythm that gets repeated in this pattern, for example by clapping the rhythm with your hands? </item>
+<item>Can you play any other picking or strumming patterns that use the exact same rhythm? (See <link target-id="eip-270">the examples</link> below.)</item>
+<item>Can you play any other picking or strumming patterns that use a rhythm that is similar but not exactly the same?</item>
+<item>Can you play any picking or strumming patterns that use a very different rhythm? </item>
+<item>For any of the picking or strumming patterns that you can play, can you introduce some rhythmic variation while keeping the beat steady? For example, can you interrupt the pattern with a favorite riff while keeping the beat steady, or use a slightly different pattern once every 4 bars?
+</item>
+<item>Do you have some patterns that repeat every 2 beats, and others that repeat every 3  beats, or every 4 or 8 beats? Do you have some 4-beat patterns that work well with a fast tempo and others with a slow tempo? Do you have 2-beat and 3-beat patterns for both fast and slow tempos? 
+</item>
+<item>If it seems to you that you have a very limited choice of rhythms to work with, choose at least one new rhythm (perhaps from a favorite recording), work on developing a comfortable way to strum or pick that rhythm, and practice it until you can use it with a favorite song.</item>
+</list><example id="eip-270"><para id="eip-183">
+Here are five examples of strumming and picking patterns. Notice that 1A and 1B do not use the same pattern of plucking and strumming, yet they use exactly the same rhythm; the same is true of 2A and 2B. Also notice that the 1 patterns and 2 patterns are quite similar to each other, although not exactly the same. The pattern in example 3 is more different rhythmically from all of the others. 
+</para>
+
+<figure id="pattern-1A-audio"><media id="pattern-1A" alt="Guitar playing chord changes in G major, with repeating rhythmic pattern of quarter eighth quarter eighth eighth eighth"> <audio mime-type="audio/mp3" src="pattern-1A.mp3"/> </media>  <caption>Example 1A: strumming pattern with rhythm 1</caption></figure><figure id="pattern-1B-audio"><media id="pattern-1B" alt="Guitar playing chord changes in G major, with repeating rhythmic pattern of quarter eighth quarter eighth eighth eighth"> <audio mime-type="audio/mp3" src="pattern-1B.mp3"/> </media>  <caption>Example 1B: picking pattern with rhythm 1</caption></figure><figure id="pattern-2A-audio"><media id="pattern-2A" alt="Guitar playing chord changes in G major, with repeating rhythmic pattern of quarter eighth quarter eighth quarter"> <audio mime-type="audio/mp3" src="pattern-2A.mp3"/> </media>  <caption>Example 2A: strumming pattern with rhythm 2</caption></figure><figure id="pattern-2B-audio"><media id="pattern-2B" alt="Guitar playing chord changes in G major, with repeating rhythmic pattern of quarter eighth quarter eighth quarter"> <audio mime-type="audio/mp3" src="pattern-2B.mp3"/> </media>  <caption>Example 2B: bass-pluck-strum pattern with rhythm 2</caption></figure><figure id="pattern-C-audio"><media id="pattern-3" alt="Guitar playing chord changes in G major, with repeating rhythmic pattern of eighth eighth quarter eighth eighth eighth eighth"> <audio mime-type="audio/mp3" src="pattern-3.mp3"/> </media>  <caption>Example 3: Strumming pattern with rhythm 3</caption></figure></example>
+
+<note id="eip-306" type="note"><title>Practice Tips</title>In general, recording yourself and listening to the recording is a great way to decide what you need to work on to become a better guitarist. If you don't like the idea of others listening to the recordings, trash them after you listen to them. Also, make sure to listen with a <link document="m43427">constructive critique</link> attitude, not looking to judge the performance as “good” or “bad” so much as to determine which elements of the performance need the most attention, and what might be done to improve them.</note></section></content>
+
+</document>

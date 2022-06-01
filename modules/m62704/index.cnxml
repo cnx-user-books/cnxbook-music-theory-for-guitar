@@ -1,0 +1,71 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Theory for Guitar 4: Functional Harmony and Chord Progressions</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62704</md:content-id>
+  <md:title>Theory for Guitar 4: Functional Harmony and Chord Progressions</md:title>
+  <md:abstract>Functional harmony is a main feature of most guitar music. Harmony is organized into progressions of chords, with different chords filling different functions. Songs that use only three different major chords are a very common, simple example of functional harmony.</md:abstract>
+  <md:uuid>b16c2ad8-4650-43f2-a95f-e8e6721d10b8</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-201">This module is part of <link document="col12060">Music Theory for Guitar</link>,  a <link document="m62540">learning by doing</link> course intended for guitar players who would like to learn some music theory without also being required to learn common notation. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><list id="eip-565"><title>This lesson discusses:</title><item><link target-id="eip-78">What is functional harmony</link></item>
+<item><link target-id="eip-700">What makes a series of chord changes a progression?</link></item></list>
+
+<section id="eip-78"><title>Functional Harmony</title>
+
+<para id="eip-924">As described in the <link document="m62567">introduction</link> to this course, most of the styles and genres of music that include guitars are within the <link document="m62567" target-id="eip-558">common practice</link> music tradition. One of the most basic and defining characteristics of common practice is functional harmony. When music has <term>functional harmony</term>, it is organized around <term>chord progressions</term>, or chord changes that create a sense that the music is going towards a particular final chord. This sense of progression toward an ending is created by the fact that the different chords have different <term>functions</term> in the music. For example, the C chords in a piece of music have a different function than G chords.
+</para><para id="eip-929">Listeners who are familiar with common practice genres subconsciously sense the progressions in their favorite pieces, even if they don't “know anything” about music, so functional harmony is another main way that music is organized to help listeners understand it at this subconscious level. The sense of moving forward helps make the music interesting, and the sense that the music eventually arrives at the right place helps create satisfaction from listening to the entire piece. The function of chords is NOT defined by their chord names; a C chord can have a different function in one song than it does in another. <emphasis>The function of a chord reflects its relationship to the strong-ending-chord of the progression.</emphasis></para><para id="eip-923">Functional harmony is so important to common practice music that it tends to affect other aspects, including form, melody, and even rhythm. Harmony also tends to be the most interesting and complex aspect of common practice music. It can also be very subtle; for example, works such as J. S. Bach's unaccompanied sonatas can imply functional harmony even when no chords are being played. (In other words, if you wanted to write a guitar accompaniment for one of these sonatas, you would use the chords implied by the melodies.)</para>
+
+<list id="eip-909" list-type="enumerated" number-style="arabic"><title>Activity 1: Changes that are Progressions towards an Ending Chord</title><item>Choose any short piece that you like to play that you like to play that has a strong ending chord, one that sounds like a satisfying, final ending to the chord progression (as opposed to a-leave-you-hanging-chord or a repeat-and-fade ending).</item>
+<item>As you did in <link document="m62669" target-id="eip-263">Activity 3 of Lesson 2</link>, make a list of the chords used, categorize each chord used as basically major, minor, power, augmented, or diminished, and make a note of any chords that are variations of the same basic chord.</item>
+<item>Note the specific name of the “strong ending” chord (for example “G major” or “E minor”). Where else does that chord appear? Is it  also the final chord of any of the main <link document="m62680" target-id="eip-849">sections</link> of the piece? Is it also the chord used at the end of any of the melodic phrases? Is it the first chord of the piece, or of any sections or phrases?</item>
+<item>Repeat steps 2-4, using a different favorite piece. Do the pieces have the same or different ending-chords? Are the lists of chords used the same, or similar, or very different from each other?</item></list></section>
+
+<section id="eip-700"><title>Major-Chord Progressions</title><para id="eip-573">Some songs use variations of the same chords, for example using both G and G7 chords, while others stick to only one variation of each chord. Many songs use a lot of different chords (in other words, chords with different <link document="m62669" target-id="eip-403">roots</link> or different <link document="m62669" target-id="eip-8">quality</link> ), while others use only a few different chords, but the songs you have been playing for this course probably include at least three chords that are <emphasis>not</emphasis> variations of each other, even if you are a beginner guitarist. <emphasis>Chords with different roots or different quality have different functions in the chord progression.</emphasis>. One-chord and two-chord songs do exist, but they are unusual in common-practice genres, because it is hard to create a sense of progression using only one or two chords. Songs with only three or four different chords, on the other hand, are extremely common. Three different chords – in other words, three chord functions - is enough to create a strong sense of progression. 
+</para><para id="eip-379">In most genres, the most common type of three-chord progression uses three different major chords. These three-major-chord pieces use only the easiest-to-hear chord functions so that listeners can “get into” the music quickly and sing along if they like. In order to study three-major-chord progressions in the next lesson, first choose a couple of pieces that you would like to play and study. If you want to use pieces you already know, try Activity 2A; if you'd rather use a list of suggested pieces to search for pieces you like and can play, try Activity 2B.</para><list id="eip-321" list-type="enumerated" number-style="arabic"><title>Activity 2A: Choose harmonically simple pieces that you know</title><item>Play through your favorite music, searching for pieces that include only chords with a basic <link document="m62669" target-id="eip-8">major quality</link>. You can immediately set aside (for later) any piece that has a minor, augmented, diminished, or power chord in it (but remember that “sharp” or “flat” major chords are fine).
+</item>
+<item>If a piece seems to only include major chords, make a list of all the different chords in the piece. You are looking for pieces that use only three different chords.
+</item>
+<item>For now, also set aside music with chords with added notes, with one exception. If one (and only one) of the chords sometimes, or always, includes a simple “7”, that will work just fine. Note that this should not be a major or minor seventh; avoid “maj. 7” “min 7” “M7” and “m7” chords. Only chords such as “A7”, “G7”, or “F#7” will do for now. Also, do not use pieces in which all the chords are 7 chords (for example many blues pieces).
+</item>
+<item>Your list of the chords in each of your chosen pieces should include only major chords, with maybe a 7 added to one of them. If your repertory of favorite songs does not include anything you can use, you can try simplifying a favorite piece, for example by substituting a simple major chord for any added-note major chord. You can also look for something that you like among the list of three-chord songs <link target-id="eip-179">below</link>.
+</item>
+<item>Try to find at least two pieces that each use only three different major chords, but that do not use the same list of chords. For example, one piece might use C, F and G, while another uses D, G and A. Once you have found two 3-chord songs in your repertory, go on to Lesson 5.</item></list><figure id="three-chord-list-figure">
+  <media id="three-chord-list" alt="Description...">
+    <image mime-type="image/png" src="../../media/three-chord-list.png"/>
+  </media>
+  <caption>
+You are looking for songs that use only 3 major chords (or two major chords and a "7" chord").
+  </caption>
+</figure>
+
+<list id="eip-360" list-type="enumerated" number-style="arabic"><title>Activity 2B: Find harmonically simple pieces that you can play</title><item>Choose a piece from the suggested three-chord-song list and look for a version of it that you can play.
+</item>
+<item>Make a list of all of the different chords used in the version you have found.
+</item>
+<item>Arrangers often make simple pieces more harmonically complex in order to make them more interesting. Check to make sure that you found a basic version that does not include any minor, augmented, diminished, or power chords. If there are added-note chords, check to see whether you can substitute a basic major chord instead.
+</item>
+<item>Check to make sure that it includes only three different major chords.
+</item>
+<item>It is OK if one of the chords sometimes or always includes a simple “7”. Note that this should NOT be a major or minor seventh; avoid “maj. 7” “min 7” “M7” and “m7” chords. Only chords such as “B7”, “G7”, or “F#7” are OK. Also, do not use pieces in which all the chords are 7 chords (for example many blues pieces).
+</item>
+<item>If the version you found is too complex, you can look for a simpler version of the song, or look for a different song. 
+</item>
+<item>Try to find at least two pieces that each use only three different major chords, but that do not use all the same chords. For example, one piece might use C, F and G, while another uses D, G and A. Practice the two pieces until you can play them about as well as other songs that you have already learned. Once you can play the two three-chord songs, you are ready to go on to Lesson 5.</item></list></section><para id="eip-415">The following list hints at the variety of genres that include songs that can be played using only three chords. (Note that you may find versions that include more chords, but it is relatively easy to find workable 3-chord versions of all of them.) If none of these are appealing, consider the general harmony/sound of the familiar songs and use that as a guideline to guess which of your favorite songs might also be 3-chord songs. You may also find it useful to search for other, more extensive lists of “three chord songs”.</para><list id="eip-179"><title>Fifteen 3-chord songs</title><item>Amazing Grace (trad.)</item>
+<item>Bad Moon Rising (Credence Clearwater Revival)</item>
+<item>Forever Young (Stewart)</item>
+<item>Happy Birthday to You (Hill)</item>
+<item>Hound Dog (Presley)</item>
+<item>I Still Haven't Found What I'm Looking For (U2)</item>
+<item>Johnny B. Goode (Berry)</item>
+<item>Margaritaville (Buffett)</item>
+<item>Me and Bobby McGee (Joplin)</item>
+<item>Mr. Tamborine Man (Dylan)</item>
+<item>Surfin USA (Beach Boys)</item>
+<item>Sweet Home Alabama (Lynyrd Skynyrd)</item>
+<item>The Tide is High (Blondie)</item>
+<item>Twist and Shout (Beatles)</item>
+<item>You Shook Me All Night Long (AC/DC)</item></list></content>
+
+</document>

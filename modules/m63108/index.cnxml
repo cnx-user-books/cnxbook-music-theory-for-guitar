@@ -1,0 +1,76 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Theory for Guitar 7: Minor Chords in Major Keys</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m63108</md:content-id>
+  <md:title>Theory for Guitar 7: Minor Chords in Major Keys</md:title>
+  <md:abstract>The minor chords in a major key have the ii, iii, and vi functions. The vi chord is particularly common in guitar music.</md:abstract>
+  <md:uuid>43ce00ef-ff55-4a12-9dea-376bb062b7d2</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-570">This module is part of <link document="col12060">Music Theory for Guitar</link>,  a <link document="m62540">learning by doing</link> course intended for guitar players who would like to learn some music theory without also being required to learn common notation. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><list id="eip-983"><title>This lesson discusses: </title><item><link target-id="eip-173">In major keys, which chord functions are filled by minor chords?</link></item>
+<item><link target-id="eip-189">Which minor-chord function is most common in major keys?</link></item></list><section id="eip-923"><title>Minor Chord functions in Major Keys</title><para id="eip-173">As discussed in <link document="m62714">Lesson 5</link>, every major key has only three major chords that are entirely in the key: the chords in the I, IV, and V functions. Every major key also has three minor chords that are entirely in the key. The symbols for their functions often use a lower-case Roman numeral, as a reminder that they are minor chords. The minor chords in the key have the ii, iii, and vi (“two, three, and six”) functions. We won't even bother in this course with the classical-theory terms for the ii, iii, and vi functions in this course, because tonic, dominant and subdominant (I, V, and IV) are the only chord-function terms that are in common use among guitarists.
+</para><para id="eip-277">Just as you did with the major-chord functions in Lesson 5, you can figure out which function a minor chord has by counting from the letter name of the tonic to the letter name of the chord. </para><note id="eip-270" type="warning">Remember, this simplified circle of chord-letter-names only works when the chord has not been “borrowed” from another key, so you can assume that the chord is in the key, regardless of whether it is sharp, flat or natural. In more harmonically complex pieces, you must keep track of sharps and flats in order to determine chord function correctly! You may be familiar enough with a certain key to know to know which version of the chord (sharp, flat or natural) is in the key, or you may be able to look it up in the chord chart that you began constructing in <link document="m63045" target-id="eip-435">Activity 3 of Lesson 6</link>. Otherwise, make sure you use this simplified method only with harmonically simple pieces.</note><figure id="minor-chords-major-keys-figure"><title>Finding Chord Function</title><media id="minor-chords-major-keys" alt="Two examples of using a letter-name circle, to determine that Em is the iii chord in C major, and C sharp minor is the vi chord in E major.">
+    <image mime-type="image/png" src="../../media/minor-chords-major-keys.png"/>
+  </media>
+  
+<caption>You can use a circle of chord letter names to help decide the function of a minor chord. For now, if a major-key song is not harmonically complex, and if a minor chord is in the ii, iii, or vi position, you can guess that it is probably the chord that is in the key, regardless of whether it is a sharp, flat, or natural chord. Minor chords in other positions must be "borrowed" from other keys.
+  </caption></figure><list id="eip-656" list-type="enumerated" number-style="arabic"><title>Activity 1: Find minor chords and minor-chord functions in major-key music</title><item>In <link document="m62669" target-id="eip-263">Activity 3 of Lesson 2</link>, did you find any favorite pieces that you decided were in a major key, but had some minor chords in them? If so, you may be able to use one of those pieces. If not, you can play through your music now, searching for a piece that seems to feature major chords but also has at least one minor chord in it. (Continue to look for harmonically simple versions of pieces, featuring basic major and minor chords. If you like, you can try simplifying chords yourself, for example ignoring 7's to concentrate on basic chord functions.) If you prefer, you can look for a simple version of the chord progressions for one of the pieces on the list of <link target-id="eip-76">suggested music</link>.
+</item>
+<item>Check to determine that the piece is in fact in a major key, and determine the tonic and name of the key, using the steps you learned in Lesson 2. (Note that the more minor chords the song includes, the more difficult it can be to decide whether it is in a major or minor key. Some are ambivalent on purpose, because it makes them harmonically interesting.)
+</item>
+<item>For each different minor chord in the piece, determine whether it is a ii, iii, or iv chord, or else a chord that is not fully in the key.
+</item>
+<item>Which minor-chord function is most common in your piece?
+</item>
+<item>Choose a different song in a different key and repeat the activity with this song.</item></list><list id="eip-76"><title>Major Key with Minor Chords</title><item>Always on my Mind (Nelson)</item>
+<item>American Pie (McClean)</item>
+<item>Angie (Rolling Stones)</item>
+<item>Can You Feel the Love Tonight (John)</item>
+<item>Danny Boy (trad.)</item>
+<item>Don't Stop Believing (Journey)</item>
+<item>Hard Day's Night (Lennon/McCartney)</item>
+<item>Heart of Gold (Young)</item>
+<item>Hey There Delilah (Plain White T's)</item>
+<item>I was Here (Beyonce)</item>
+<item>Oh Shenandoah (trad.)</item>
+<item>Price Tag (Jessie J)</item>
+<item>Take On Me (A-ha)</item>
+<item>The Scientist (Coldplay)</item>
+<item>We are Young (Fun)</item></list></section><section id="eip-189"><title>The vi Chord in Major Keys</title><para id="eip-300">It is likely that you found in Activity 1 that you found the vi chord to be a particularly common minor chord in your pieces. Just as there are many three-chord pieces in many genres that use only I, IV, and V, there are many four-chord pieces that use only I, IV, V, and vi. The following list hints at the variety of genres that include songs that use only I, IV, V, and vi chords. You may also want to listen to Axis of Awesome's "Four Chord Song," an amusing take on the ubiquity of this chord combination.
+</para><list id="eip-611"><title>These can be played using only I, IV, V, and vi chords:</title><item>21 Guns (Green Day)</item>
+<item>A Thousand Years (Perry)</item>
+<item>Country Roads (Denver)</item>
+<item>Don't Forget Me (Red Hot Chili Peppers)</item>
+<item>Don't Stop Believing (Journey)</item>
+<item>Guantanamera (Fernandez)</item>
+<item>Hey, Soul Sister (Train)</item>
+<item>Hit the Road, Jack (Charles)</item>
+<item>I'm Yours (Mraz)</item>
+<item>Let it Be (Lennon/McCartney)</item>
+<item>No Woman No Cry (Marley)</item>
+<item>The Meaning of Life (Nelson)</item>
+<item>Wherever You Will Go (The Calling)</item>
+<item>With or Without You (U2)</item>
+<item>You Raise Me Up (Løvland/Graham)</item></list><list id="eip-545" list-type="enumerated" number-style="arabic"><title>Activity 2: Form, progression, and harmonic tempo in four-chord pieces</title><item>Choose two different songs, in different keys, that use only I, IV, V, and vi chords. (V7 chords can also be included.) You may have discovered such songs in Activity 1, or you may be able to find them among the songs you already play, or you can choose from the list of <link target-id="eip-611">four-chord songs</link>].
+</item>
+<item>Identify the I, IV, V, (V7) and vi chords.
+</item>
+<item>Choose any main section of each song, such as a verse or a refrain. (You can choose a verse from one song and a refrain from the other.)
+</item>
+<item>Referring as much as you need to both the written music and/or the way you play the piece, and using any note-taking method that you like, jot down the progression of the section as a progression of chord functions, including the number of bars each chord is played.
+</item>
+<item>Look for any patterns, repetitions, and similarities you can find, both within the same song and between the two songs. For example, are there any specific sequences of chords (for example, V7 – I or iv – IV – V) that get repeated? Does the progression tend to return to the I chord every 4 bars, or every 8 bars, or at the end of each melodic phrase? If there are spots where the <link document="m62669" target-id="para2">harmonic tempo</link> speeds up or slows down, are the same chords involved every time? Do the two songs seem to use any of the chord functions in the same way? (See the <link target-id="four-chord-analysis-figure">example analysis</link>.)
+</item>
+<item>If you like to experiment with chord progressions, try creating your own progression that is different than the progressions in your study pieces, but uses some of the same patterns, repetitions, or similarities. You can also experiment with the progressions by trying to play them in a different style: change the tempo, use a different picking or strumming patterns, or even try adding notes (such as sevenths) to some of the chords. 
+</item>
+<item>Do your new progressions remind you of any other songs you know? Would any be useful as an accompaniment for an improvised solo or for a newly-composed song melody?</item></list><figure id="four-chord-analysis-figure"><title>Example Analysis</title><media id="four-chord-analysis" alt="First verse of I Gave my Love a Cherry in G major, with repeated chord sequences highlighted in yellow and green, and G labeled as I, C as IV, D as V, and Em as vi.">
+    <image mime-type="image/png" src="../../media/four-chord-analysis.png"/>
+  </media>
+  
+<caption>Analysis of the chords in a verse of a folk song that uses only I, IV, V, and vi chords. Every chord lasts for one measure, giving a very regular harmonic tempo. After the first tonic chord establishes the key, the rest of the verse uses only two chord sequences, one for the middle two phrases, and the other for the first and last phrases.
+  </caption></figure></section>
+</content>
+
+</document>

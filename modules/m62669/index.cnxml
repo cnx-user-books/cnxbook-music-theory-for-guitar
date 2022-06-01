@@ -1,0 +1,127 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Theory for Guitar 2: Melodic Phrases and Chord Changes</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62669</md:content-id>
+  <md:title>Theory for Guitar 2: Melodic Phrases and Chord Changes</md:title>
+  <md:abstract>Over medium time frames, typical guitar music is organized into melodic phrases accompanied by chord progressions that create the harmonic tempo. There are five basic chord types, with major and minor chords the most common types in most guitar music. Chord names and symbols identify the root of the chord and the chord type.</md:abstract>
+  <md:uuid>18feaa8f-10c1-4749-9b87-324a91d43db4</md:uuid>
+</metadata>
+
+<content>
+  <note id="eip-312">This module is part of <link document="col12060">Music Theory for Guitar</link>,  a <link document="m62540">learning by doing</link> course intended for guitar players who would like to learn some music theory without also being required to learn common notation. The author would appreciate feedback from users. It is a short experimental course that will be refined and expanded if there is sufficient user interest and feedback.</note><list id="eip-198"><title>This lesson discusses:</title><item><link target-id="eip-655">What is the difference between melody and harmony?</link></item>
+<item><link target-id="eip-114">What is a line of music?</link></item>
+<item><link target-id="eip-234">What is a musical phrase?</link></item>
+<item><link target-id="subsection1">What does a chord name tell you (part I)</link> (Part II is in <link document="m62714">Lesson 5</link>.)</item> 
+<item><link target-id="eip-8">What are the most basic categories of chords?</link></item>
+<item><link target-id="subsection2">What is harmonic tempo or harmonic rhythm?</link></item></list><para id="eip-52"><link document="m62603">Lesson 1</link> introduced some of the ways that music is organized at the short time scale of single <link document="m62603">beats and bars</link>. Music in most guitar genres tends to be basically a melody in the foreground (where most listeners focus their attention) set in a rhythm-and-harmony background or accompaniment. As discussed in Lesson 1, the rhythm of this background tends to be organized into repetitions at the short time scale of beats and bars. At a medium time scale, the melody is organized into phrases and the harmony of the accompaniment is organized into chord changes. These longer-lasting musical elements may be repeated exactly, but to keep the music interesting they are often used as variations. For example, the beginning of a phrase may be the same as an earlier phrase, while the end is different; or the same chords may be used but in a different order.</para><section id="eip-655"><title>Melodic Phrases</title>
+
+<para id="eip-625"><term>Harmony</term> consists of notes that are understood in terms of a notes-sounding-at-the-same-time relationship. Sometimes the notes are actually heard at (basically) the same time, for example when a chord is strummed on the guitar. At other times the sounds only overlap a little, for example when the notes of a chord are plucked separately using a picking pattern. Even if the sounds of individual notes don't overlap at all, it is still their harmonic, notes-at-the-same-time, relationship, that is important. Listeners hear and understand them mainly as part of the harmony.
+</para><para id="eip-114">A <term>line of music</term> is also heard and understood as notes that belong together, but unlike harmony, the notes are understood as happening in a specific order, one after the other in the flow of time. This ordered line stands out as something that can be heard above the background of the harmony, much as a person who is talking to you can be heard above the background of voices talking in a cafe. The most prominent line – the one that is easiest to follow – is the <term>melody</term>. Some pieces may have other noticeable lines, for example a <term>bass line</term> (an audible line made up of the lowest notes), or a line performed by specific instruments or singers (for example, the trumpet line or the alto line). </para><list id="eip-507" list-type="enumerated" number-style="arabic"><title>Activity 1: Harmony and Melody</title><item>Choose any chord to play.
+</item>
+<item>Play the chord all at once, so that all of the notes start and end, as much as possible, at the same time. Can you do this in different ways, for example, using different types of strumming techniques (such as an upward strum and a downward strum), or by plucking all of the notes at the same time?
+</item>
+<item>Can you play the chord by playing the notes individually, for example using a favorite picking pattern? Can you switch to a different picking pattern that plays the notes in a different order? How many different ways can you play this same chord by changing the order of the notes? 
+</item>
+<item>Now choose a different chord and repeat steps 2 and 3. Notice the difference between the-sound-of-a-different-chord and the-sound-of-the-same-chord-played-differently.
+</item>
+<item>In Lesson 1 we saw that one of the important aspects of playing chords on a “rhythm” instrument is to play them using constant repetition, so that the beat and meter are also created. In this step, choose any chord, but use the chord to play something that sounds like part of a melody, rather than like part of a chord. You can do this both by playing the notes using a rhythm that is not constantly repeating, or in an order that is not constantly repeating. You can make up your own melodic idea, or try to play by ear part of a simple chord-based melody such as “Taps” or “Reveille” (or any other bugle tune).</item>
+</list>
+
+<figure id="taps-audio"> <media id="name" alt="Taps played in G on a guitar"> <audio mime-type="audio/x-wav" src="taps.wav"/> </media> <caption>"Taps is an example of an entire tune that can be played using only the notes in a single chord.</caption> </figure>
+
+<note id="eip-235" type="note"><title>Practice Tips</title>If you found your strumming and picking choices to be very limited, adding some new picking patterns or strumming techniques to your daily practice will increase your flexibility as a guitarist. Choose a favorite song that is easy for you to play, and practice it using any picking or strumming pattern (perhaps from a guitar manual or by listening to other guitarists) that you would like to learn.</note>
+
+<para id="eip-234">Melodic lines, bass lines, and other lines tend to include a lot of variation and newness; that is one way they capture your attention. However, they usually also include plenty of both obvious and subtle repetition, to help keep the piece easy to hear and understand. You may have noticed in Activity 1 that a good way to make a group of notes sound like a melody is to add pauses, moments when there are no new notes. The pauses break up the melody into sections called <term>phrases</term>. Just as a phrase in language is a series of words that creates an idea and is often followed by a short pause (indicated by a comma or period), a phrase in music is a series of notes that creates a musical idea and is often followed by a short pause. In fact, it is very common in songs that the phrases in the melody line up with phrases or sentences in the lyrics.</para>
+
+<list id="eip-318" list-type="enumerated" number-style="arabic"><title>Activity 2: Melodic Phrases</title><item>Listen to a recording of a favorite song, or sing a favorite song while playing guitar.
+</item>
+<item>Choose one verse or one chorus of the song. Write down the lyrics, or find a written version of the lyrics. 
+</item>
+<item>Play that section of the song again, listening for pauses in the melody and marking them in the lyrics. (You can play it multiple times, if needed.)
+</item>
+<item>How many melodic phrases does the section have? How well do the melodic phrases line up with phrases or sentences in the lyrics? If there are places where the phrases do not line up with each other, does that create any interesting effects on the music or the lyrics?
+</item>
+<item>Do any of the melodic phrases seem to be exactly the same as other phrases in that section? Do any of them seem to be nearly the same as each other? Do any seem to be slightly the same? What aspects of them stay the same, and what is different? How much of the melody would you say is repetitive, and how much of it is variation and newness?
+</item>
+<item>Play through the song again, listening for the beat and meter as you did in Lesson 1. How many beats are in each bar? (If you have written music, it is OK to look at it for clues, or you can decide for yourself, by ear.)
+</item>
+<item>Now play through your verse or chorus again, noticing  how long each phrase (including the pause) lasts in the music. How many bars does each melodic phrase take? Do all of the phrases take up the same number of bars, or do some last a longer or shorter time than others? How much of the time is taken by the pauses? (For example, if a phrase takes 4 bars, does the pause last for an entire bar, or only a couple of beats?) Do other interesting things happen during the melodic pauses, such as instrumental riffs?</item></list><note id="eip-24" type="note"><title>Practice Tips</title>If you like adding riffs to pieces, or want to start trying to add riffs, you may want to choose a piece that has long pauses between melodic phrases and practice adding an appropriate riff during the pauses. You can imitate a riff from a recording, choose one from a list of riffs in the appropriate style, or make up your own. If you like improvising or composing melodies, then during your regular practice/composition time you may want to try purposely adding regular pauses to your melodies, to create easy-to-hear phrases, and adding exact or varying repetitions, to make your melodies easier to understand. You can even borrow the phrase form (for example 4 phrases that each last 4 bars, including one-bar pauses) and repetition pattern of a favorite piece, while playing a completely different set of notes to create your own melody.</note></section>
+
+<section id="section2"><title>Chord Changes</title>
+
+<section id="subsection1"><title>Chord Names, Part I: Root and Quality</title><para id="para1">Like the <link document="m62603" target-id="eip-668">rhythm</link> elements of the background, the harmony provides audible cues that are crucial for helping listeners understand and enjoy more obvious elements such as the melody. One of the most important ways that guitar music is organized is by repeating-and-varying the harmony. Most songs use only a small number of different chords, changing from one chord to another either in the same order (exact repetition) or in different order (variation). 
+</para><para id="eip-481">Sometimes the chords themselves are variations of each other. For example, C,  C7, CM7, and C9 chords are all variations of the C major chord. They all include the notes of a C major chord, but some add an extra note or two, so that the resulting harmony is noticeably different-but-similar. Since they use similar sets of notes, substituting one of these chords for another is one way that an experienced guitarist might “arrange” music. For example, a CM7 might be used instead of a C, to give a slightly jazzier feeling to the harmony.  You can also use these kinds of substitutions to simplify chord progressions if needed; for example, if you can't remember how to play a C6, a plain C chord will work!</para>
+
+<para id="eip-403">Two chords can be considered variations of the same chord only if they have the same root note and the same quality. Every chord has a <term>root</term> note that the rest of the chord is built on. <emphasis>The letter name of the chord (such as C or G), along with any sharps or flats that immediately follow it, name the root of the chord.</emphasis> For example, C and C# chords have different roots. In fact, they don't include any of the same notes (as you can verify by playing both chords for yourself). You cannot substitute one for the other, but you could substitute a C# for a C#7 chord, because they have the same root and the same quality.  (By the way, don't worry for now about what terms like “sharp” and “major” and “root” actually mean. We will explore those terms later.)</para><para id="eip-8">The other indication that two chords share most of their notes is that they have the same basic <term>quality</term>. This simply means that the other main notes of the chord are the same, which makes the chords  audibly "similar." (Again, you can see and hear this for yourself, for example by playing a C and a C7 chord.) There are five chord qualities that are found in many kinds of guitar music:</para><list id="eip-560"><item><emphasis>Major chords</emphasis> – are so common in most guitar genres that if there is no indication a chord is major, minor, etc., you can usually assume that it is a major chord. (The one important exception to this is power chords in some genres.) If needed, “major” “maj.” or simply a capital “M” may be used.
+</item>
+<item><emphasis>Minor chords</emphasis> – will include some indication such as “minor” or “min.” or a small “m” or minus sign.
+</item>
+<item><emphasis>Power chords</emphasis> – A “5” in the chord name is the most common way to indicate power chords, but in a few guitar genres, especially those featuring distortion of electric guitar sounds, power chords are so common that no indication of chord quality means “power chord.” 
+</item>
+<item><emphasis>Augmented chords</emphasis> – may be indicated as “aug” or using a plus sign.
+</item>
+<item><emphasis>Diminished chords</emphasis> – may be indicated as “dim” or using a small circle.</item></list><figure id="chordtypes"><title>Notating Chord Quality</title><media id="chordtype" alt="Examples of chord symbols for major, minor, power, augmented, and diminished chords.">
+    <image mime-type="image/png" src="../../media/chord-types.png"/>
+  </media>
+<caption>Here are the most common symbols used to indicate the basic quality of guitar chords. Additional information in the symbol (such as 7, sus4, /G) does not affect the basic quality of the chord.</caption></figure>
+
+<list id="eip-595"><title>Chord names and symbols:</title><item>Always begin by naming the root of the chord.</item>
+<item>Indicate or imply the chord quality, immediately following the root name. If there is no indication, a major chord or power chord is implied, depending on the music style.</item>
+<item>May or may not include additional information, such as voicing (for example "/C"), or added notes (for example "7" or "sus4").</item></list><list id="eip-263" list-type="enumerated" number-style="arabic"><title>Activity 3: Types of Chords in Your Music </title><item>Choose a song that you like to play that you feel uses a lot of different chords.
+</item>
+<item>Make a list of the chords that you use to accompany the song, listing each chord only once. (For example, list “C7” only once, no matter how many times you play a C7.)
+</item>
+<item>How many different chords do you use to accompany the song?
+</item>
+<item>Categorize all of the chords in your list. For example, include all major-type chords in a "major chords" category. Unless you are playing music that does not use common-practice harmony, all of the chords should belong to one of the categories listed above. How many different categories of chords do you use? (Note that it is not uncommon for a song to include only major chords, only power chords, or only minor chords.)
+</item>
+<item>Are any of the chords variations of the same basic chord? In other words, do they use the same note name (such as “C” or “Bb” or “F#”) and also belong to the same category?
+</item>
+<item>Try experimenting with substituting variations for some of the chords. (For example, try playing a “B7” instead of a “B” chord, or a “Dm” instead of a Dm7”.) Substituting chords that are already used elsewhere in the song is a good bet, but you can try any appropriate chord that you know and like – just remember to use only chords with the same root and same quality. Can you find substitutions that you like? Which do not sound good to you? Are there any that seem pretty neutral?
+</item>
+<item>Try playing all of the chords in the song using the most basic version of chord. In other words, ignore all of the added notes (such as 7, 6, or sus4) and voicing information (such as /G) and play every chord as a simple major, minor, augmented, diminished, or power chord. (Note that this technique can be very useful when you need a song with an easy or simple chord progression!)</item>
+<item>Try to find at least one substitution that you like enough to keep (either because you like the sound better or because it makes the song easier for you to play). If you can't find one, choose another song that you feel is either “boring” or “difficult to play” chord-wise, and repeat this activity with this song.</item></list><example id="eip-901">
+<para id="eip-658">Here is an example of how to do Activity 3, using the bridge and final verse (which include all the chords used in the entire song) of "Til there was You." Each chord used is listed only once; for example, "F" is listed only once, although the excerpt includes 3 F chords. However, any variation in the chord, such as FM7, is also listed.
+</para>
+
+<figure id="analysis-figure">
+  <title>Chord Analysis</title>
+  <media id="analysis" alt="Lyrics and chords of bridge and final verse of Til there was You, in F, followed by a chart, of chord root versus chord quality, listing all the chords used.">
+    <image mime-type="image/png" src="../../media/analysis.png"/>
+  </media>
+</figure><para id="eip-264">Notice that chords are only considered variations of the "same" basic chord if they have the same root AND the same basic quality. G minor and G sharp minor are not built on the same basic chord, and are not interchangeable; neither are G minor and G7, because G7 is basically a major chord.</para><para id="eip-725">On the other hand, chords that are variations of the same basic chord are reasonably interchangeable. For example, if you do not know how to play a D7-9 over F sharp, a simple D7 would work. Switching the C and C7 would also be OK. Turning the progression Am to G sharp minor to G minor into a sequence of minor seventh chords would also work, making the accompaniment sound even jazzier.</para><para id="eip-906">You can try making these substitutions in the chord sequence to hear for yourself how they change the sound of the progression, or try the same process on the piece that you choose for Activity 3.</para>
+
+</example>
+
+</section>
+<section id="subsection2"><title>Harmonic Tempo</title>
+
+<para id="para2">The <term>harmonic tempo</term> of a piece refers to how often chord changes happen. The chord may change almost every beat, for example, or only at the beginning of bars. In guitar music, chord changes often happen at the beginning of bars. In fact, the beat when a chord changes tends to feel emphasized, so when chords change regularly every 2 beats or every 4 beats, that can make the <link document="m62567" target-id="eip-368">meter</link> feel strongly in 2 or 4. Most songs have a basic harmonic tempo with some variation, for example changing chords at the beginning of most bars but occasionally holding the same chord for two or four bars. Harmonic tempo can also be called <term>harmonic rhythm</term>.
+</para><example id="eip-591">
+<para id="eip-876">A basic 12-bar blues progression provides a real-music example of harmonic tempo. Chord changes happen at the beginnings of bars, to help strengthen the meter, but they do not happen at the beginning of every bar. The first four bars are all the same chord. The second four bars are divided: two bars of one chord and two of another. The final four bars are divided into one bar, one bar, and two bars. The basic harmonic tempo appears to be 2 bars, with one instance of "longer" (4 bars of the same chord in the first line) nicely balanced by one instance of "shorter" (2 bars with two different chords) in the last line). 
+</para><figure id="harmonic-analysis-figure"><title>Basic 12-bar Blues</title><media id="harmonic-tempo" alt="12-bar blues progression in C, all seventh chords, highlighted as 6 2-bar blocks.">
+    <image mime-type="image/png" src="../../media/harmonic-tempo.png"/>
+  </media>
+<caption>A 12-bar blues has a basic tendency to change chords every 2 bars, although there is some variation (one instance of the same chord for 4 bars, and one of chord changes every bar). This contributes to a more laid-back harmonic feeling than pieces that change chords every beat or every bar.</caption></figure><para id="eip-611">The variation in how often the chords change adds interest to the chord progression. The fact that the changes happen more often towards the end of the verse creates the feeling that the harmony is getting more intense. However, there is also a sense of an underlying tempo to the chord changes. Much good music has a very strict harmonic tempo, but much good music has a lot of variation, which can make it difficult to treat harmonic tempo as a question with one "correct" answer. Deciding on the harmonic tempo of a song is not as important as noting things such as how often the chords tend to change and how much variation there is. These are the clues that suggest "how to make good music in the style of this song."</para></example>
+
+<list id="eip-528" list-type="enumerated" number-style="arabic"><title>Activity 4: Harmonic tempo</title><item>Choose any song you like to play.
+</item>
+<item>Play through the piece, noting how often the chords change. Do you generally change chords every 2 beats, or 4 or 8?
+</item>
+<item>Do you use a written version of the piece that includes bar lines? If so, do the chords, in general, change once a measure at the beginning of the measure? If not, would you say the basic meter of the piece has 2, 3, or 4 beats? Do you feel that the harmonic tempo is one-chord-per-bar, with most chord changes happening at the beginning of a bar?
+</item>
+<item>Are there places in the piece where chords change more often or less often than the general harmonic tempo? How much variation in harmonic tempo is there?
+</item>
+<item>Do the chord changes ever involve moving from one chord directly to another that is based on the same chord (For example, a change from a G to a G7)? If so, do these types of changes seem to involve a faster- or slower-than-normal harmonic tempo? Try making a slight alteration to the harmonic tempo by choosing one of the chords and playing it for the entire time that you would normally play both chords – how does the alteration affect the sound?
+</item>
+<item>Notice the picking or strumming pattern that you have chosen to play the piece. Does it have the same length as the harmonic tempo? In other words, if the chord changes every 4 beats, does your picking or strumming pattern also last for 4 beats? If not, is your pattern longer or shorter than the harmonic tempo? Try changing your pattern to match – or to deliberately not match – the harmonic tempo. Does this change make the piece easier or more difficult? More or less interesting? Does it seem to change the style or the "groove" of the piece? 
+</item>
+<item>If the harmonic tempo of the piece varies at all, do you use a different strumming or picking pattern  when the chord changes are more frequent or less frequent? Would doing so make the piece more interesting or easier to play?</item>
+<item>If there are spots where the chord does not change for several measures, do you add any riffs to keep things interesting? If not, can you do so? Can you make things more interesting by adding a chord change for example, playing 2 measures of C and 2 of C7 instead of 4 measures of C.</item>
+<item>Try to find at least one alteration related to harmonic tempo that you would like to keep. If there are none, try this activity with a song that you feel is not working for you yet.</item></list><note id="eip-207" type="note"><title>Practice Tips</title>One great way to train your ear as a guitarist is to practice listening for chord changes. When you listen to favorite pieces that feature guitar, try to hear/notice the chord changes. Once you can do that, can you tell when the harmony returns to a chord that was played previously? Can you hear any repeated sequences of chords? Once you can do that, can you guess which chords are being played and try to play the chords yourself, by ear? This type of ear training can help you become a much more proficient rhythm guitarist.</note></section>
+
+</section>
+</content>
+
+</document>
